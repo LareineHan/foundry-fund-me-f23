@@ -138,15 +138,9 @@ forge fmt
 
 # Thank you!
 
-If you appreciated this, feel free to follow me or donate!
-
-Addresses 
-Ethereum: 0x258965D4BBBd2D083D7a5F4A4F0B098513e4aDBf
-Polygon: 0x258965D4BBBd2D083D7a5F4A4F0B098513e4aDBf
-DogeCoin: DCChPYKApdtp3ZLe4838D54fqFHRuFiS3Y
+If you appreciated this, feel free to follow me!
 
 [![Lareine Han Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theNewLareine)
 [![Lareine Han Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lareinehan/)
-[![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/)
 
 
